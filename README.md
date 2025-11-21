@@ -24,27 +24,22 @@ streamlit run proyect.py
 ### Página Principal
 (Imagen simulada)
 ```
---------------------------------------------------
-| Iris Species Classification — Proyecto         |
-| Accuracy: 0.97  Precision: 0.96 ...            |
---------------------------------------------------
+<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/cd292117-71c2-4d39-a92f-870d2fe59d5c" />
+
 ```
 
 ### Predicción de muestra nueva
 (Imagen simulada)
 ```
---------------------------------------------------
-| Predicción: Iris-virginica                     |
-| Probabilidades: ...                             |
---------------------------------------------------
+<img width="1366" height="695" alt="image" src="https://github.com/user-attachments/assets/bbf00fb8-0a12-4638-a3b2-b899ca54de42" />
+
 ```
 
 ### Exploración de Datos
 (Imagen simulada)
 ```
---------------------------------------------------
-| Histogramas, boxplots, matriz de dispersión... |
---------------------------------------------------
+<img width="1366" height="695" alt="image" src="https://github.com/user-attachments/assets/4196432a-92b8-44e2-8465-36a6ef6b38a2" />
+
 ```
 
 ## Notas
