@@ -24,21 +24,21 @@ streamlit run proyect.py
 ### Página Principal
 (Imagen simulada)
 ```
-<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/cd292117-71c2-4d39-a92f-870d2fe59d5c" />
+<img width="1366" height="695" alt="Página Principal" src="https://github.com/user-attachments/assets/31da91e8-5ed4-4258-971f-8c1e49b9ae4d" />
 
 ```
 
 ### Predicción de muestra nueva
 (Imagen simulada)
 ```
-<img width="1366" height="695" alt="image" src="https://github.com/user-attachments/assets/bbf00fb8-0a12-4638-a3b2-b899ca54de42" />
+<img width="1366" height="691" alt="Predicción de muestra nueva" src="https://github.com/user-attachments/assets/f4646ec7-a103-4868-9a8d-1e968b715e91" />
 
 ```
 
 ### Exploración de Datos
 (Imagen simulada)
 ```
-<img width="1366" height="695" alt="image" src="https://github.com/user-attachments/assets/4196432a-92b8-44e2-8465-36a6ef6b38a2" />
+<img width="1366" height="695" alt="Exploración de Datos" src="https://github.com/user-attachments/assets/6546c1ad-7eaf-404c-ab48-aa302e21e72a" />
 
 ```
 
